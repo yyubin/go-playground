@@ -1,6 +1,6 @@
 # go-playground
 
-It's a respository for me to learn go.
+It's a respository where I learn go.
 
 ## Tools
 
