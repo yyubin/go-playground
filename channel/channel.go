@@ -73,6 +73,8 @@ func main() { // 메인 고루틴
 
 	wg.Wait()
 	fmt.Println("Close the factory")
+	// 첫차 생산시까지 3초 걸림
+	// 다음차 생산까지 1초씩만 더 걸리게 됨
 
 }
 
