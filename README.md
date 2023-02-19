@@ -19,3 +19,6 @@ https://github.com/smartystreets/goconvey
 
 https://github.com/stretchr/testify
 
+
+## References
+https://www.youtube.com/@TuckerProgramming
