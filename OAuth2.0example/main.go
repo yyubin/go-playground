@@ -19,8 +19,8 @@ import (
 var googleOauthConfig = &oauth2.Config{
 	RedirectURL: "http://localhost:3000/auth/google/callback",
 	// 코드 사용시 ClientID, ClientSecret은 직접 발급받은걸 사용해주세요
-	ClientID:     "959728564101-m850r4oiknv6l2b5nefri1hhaqfod5qn.apps.googleusercontent.com",
-	ClientSecret: "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",
+	ClientID:     "client id",
+	ClientSecret: "secret key",
 	Scopes:       []string{"https://www.googleapis.com/auth/userinfo.email"},
 	Endpoint:     google.Endpoint,
 }
